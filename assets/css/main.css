@@ -194,14 +194,14 @@
 /* Header */
 
 	#header {
-		position: fixed;
+		position: relative;
 		background: #707070 url("images/loader.gif");
 		color: #a3902a;
 		cursor: default;
 	}
 
 		#header p {
-			opacity: 1;
+			opacity: 0.8;
 		}
 
 /* Desktop */
